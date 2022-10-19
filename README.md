@@ -1,5 +1,7 @@
 #C - ALX printf Group Task by 
-Isaiah Richman
+
+Isaiah Richman, and
+
 Victor Nwachukwu
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
